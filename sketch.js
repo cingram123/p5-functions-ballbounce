@@ -20,6 +20,7 @@ function display(){
     strokeWeight(4);
     fill(50,250,50);
     ellipse(x, y, 50, 50);
+}
 
 function move(){
      //make ball move
